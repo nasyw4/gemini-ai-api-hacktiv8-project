@@ -1,4 +1,4 @@
-// Session 3
+// Session 3 Hacktiv8
 // Configure Node App
 const express = require("express");
 const dotenv = require("dotenv");
